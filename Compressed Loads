@@ -1,0 +1,9 @@
+if macro then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/L0SIX/Fake-Macro/main/MACRO"))()
+end
+if pack then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/L0SIX/Fake-Macro/main/GUI"))()
+end
+if anti then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/L0SIX/Fake-Macro/main/ANTI"))()
+end
